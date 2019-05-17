@@ -16,6 +16,8 @@
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+		</buildCommand>
+		<buildCommand>
 			<name>org.eclipse.wst.common.project.facet.core.builder</name>
 			<arguments>
 			</arguments>
